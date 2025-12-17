@@ -4,4 +4,4 @@ it will not stage it all unless there's a file within it.
 
 ******You can click on the GitHub folder to find your grade, open it and select the file you need. Then you can download it by click the download button .******
 
-![How to download from Git](/home/sak/Documents/GitHub/How to download form Git.png)
+![Download from Git](GitHub/How to download form Git.png)
