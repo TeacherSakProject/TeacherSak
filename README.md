@@ -4,7 +4,7 @@ This is a README that provide the basic of accessing(downloading) files from thi
 it will not stage it all unless there's a file within it.-->
 
 ****
-# 😃😹You just click on the folder of your grade and click the files inside to download it.😹😃
+# 😃😹You just click on the folder of your grade and click the files inside to download them.😹😃
 ****
 
 For example, you can click on the folder Grade 9 to find my database, 
