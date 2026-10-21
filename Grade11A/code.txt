@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Writing an HTML file</title>
+</head>
+<body>
+    <h1 style="text-align:center;font-size:40pt;background-color:green">Continents on earth.</h1>
+    <p style="color:green; font-size:20pt"> Hello, today I'm like to talk about continents on earth. 
+        There are 7 continents on earth; 
+        Africa, Antarctica, Asia, Australia/Oceania, 
+        Europe, North America, and South America. </p> 
+    <p style="color:green; font-size:20pt"> Here is the list: </p> 
+    <img src="https://i.etsystatic.com/40999199/r/il/5c6575/4816481225/il_1588xN.4816481225_m3g1.jpg" height="300" 
+    width="550" alt="Continents"> 
+    <ul style="font-size:20pt"> 
+        <li>Asia</li>
+        <li>North America</li>
+        <li>South America</li>
+        <li>Africa</li>
+        <li>Europe</li>
+        <li>Australia/Oceania</li>
+        <li>Antarctica</li>
+    </ul>
+</body>
+</html>
